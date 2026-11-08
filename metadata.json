@@ -1,0 +1,6 @@
+{
+  "name": "ShayariSutra - Hindi Poetry & Shayari Portal",
+  "description": "A clean, modern, and mobile-friendly responsive website template and portal for Hindi Shayari, featuring Sad, Romantic, Attitude, Dosti categories, AI Shayari Generator, bookmarking, and beautiful shareable poetry cards.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
